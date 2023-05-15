@@ -1,0 +1,17 @@
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\JogoPalavras\bin\Debug\net6.0-windows\JogoPalavras.exe
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\JogoPalavras\bin\Debug\net6.0-windows\JogoPalavras.deps.json
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\JogoPalavras\bin\Debug\net6.0-windows\JogoPalavras.runtimeconfig.json
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\JogoPalavras\bin\Debug\net6.0-windows\JogoPalavras.dll
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\JogoPalavras\bin\Debug\net6.0-windows\JogoPalavras.pdb
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\JogoPalavras\obj\Debug\net6.0-windows\JogoPalavras.csproj.AssemblyReference.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\JogoPalavras\obj\Debug\net6.0-windows\JogoPalavras.csproj.GenerateResource.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\JogoPalavras\obj\Debug\net6.0-windows\JogoPalavras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\JogoPalavras\obj\Debug\net6.0-windows\JogoPalavras.AssemblyInfoInputs.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\JogoPalavras\obj\Debug\net6.0-windows\JogoPalavras.AssemblyInfo.cs
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\JogoPalavras\obj\Debug\net6.0-windows\JogoPalavras.csproj.CoreCompileInputs.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\JogoPalavras\obj\Debug\net6.0-windows\JogoPalavras.dll
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\JogoPalavras\obj\Debug\net6.0-windows\refint\JogoPalavras.dll
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\JogoPalavras\obj\Debug\net6.0-windows\JogoPalavras.pdb
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\JogoPalavras\obj\Debug\net6.0-windows\JogoPalavras.genruntimeconfig.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\JogoPalavras\obj\Debug\net6.0-windows\ref\JogoPalavras.dll
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\JogoPalavras\obj\Debug\net6.0-windows\JogoPalavras.TelaJogoPalavra.resources
